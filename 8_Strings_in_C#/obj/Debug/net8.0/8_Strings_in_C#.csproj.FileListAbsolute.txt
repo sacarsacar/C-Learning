@@ -1,0 +1,14 @@
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\bin\Debug\net8.0\8_Strings_in_C#.exe
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\bin\Debug\net8.0\8_Strings_in_C#.deps.json
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\bin\Debug\net8.0\8_Strings_in_C#.runtimeconfig.json
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\bin\Debug\net8.0\8_Strings_in_C#.dll
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\bin\Debug\net8.0\8_Strings_in_C#.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.AssemblyInfoInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.AssemblyInfo.cs
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.dll
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\refint\8_Strings_in_C#.dll
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\8_Strings_in_C#.genruntimeconfig.cache
+C:\Users\sakar\source\repos\Learning C# Programming\8_Strings_in_C#\obj\Debug\net8.0\ref\8_Strings_in_C#.dll
