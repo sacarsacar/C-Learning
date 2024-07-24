@@ -1,0 +1,28 @@
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\bin\Debug\net8.0\Learning C# Programming.exe
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\bin\Debug\net8.0\Learning C# Programming.deps.json
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\bin\Debug\net8.0\Learning C# Programming.runtimeconfig.json
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\bin\Debug\net8.0\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\bin\Debug\net8.0\Learning C# Programming.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.AssemblyInfoInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.AssemblyInfo.cs
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.csproj.CoreCompileInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\refint\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\Learning C# Programming.genruntimeconfig.cache
+C:\Users\sakar\source\repos\Learning C# Programming\Learning C# Programming\obj\Debug\net8.0\ref\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\bin\Debug\net8.0\Learning C# Programming.exe
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\bin\Debug\net8.0\Learning C# Programming.deps.json
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\bin\Debug\net8.0\Learning C# Programming.runtimeconfig.json
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\bin\Debug\net8.0\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\bin\Debug\net8.0\Learning C# Programming.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.AssemblyInfoInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.AssemblyInfo.cs
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.csproj.CoreCompileInputs.cache
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\refint\Learning C# Programming.dll
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.pdb
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\Learning C# Programming.genruntimeconfig.cache
+C:\Users\sakar\source\repos\Learning C# Programming\1_First_Program_in_C#\obj\Debug\net8.0\ref\Learning C# Programming.dll
